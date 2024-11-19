@@ -1,0 +1,5 @@
+Build the Redash front end
+    $ make build
+Build local Redash Docker image
+    $ make compose_build
+    $ make up
