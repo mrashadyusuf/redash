@@ -3,3 +3,5 @@ Build the Redash front end
 Build local Redash Docker image
     $ make compose_build
     $ make up
+
+https://github.com/getredash/redash/wiki/Local-development-setup
